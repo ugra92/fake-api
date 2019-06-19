@@ -1,5 +1,4 @@
-{
-        "data": [
+[
         {
             "id": 4,
             "email": "eve.holt@reqres.in",
@@ -21,5 +20,5 @@
             "last_name": "Ramos",
             "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bigmancho/128.jpg"
         }
-    ]
-}
+    
+]
